@@ -1,0 +1,6 @@
+# Tooling cache
+.expert/
+
+# Sub-app repos are versioned independently (their own git repos)
+/colette-exercise-api/
+/colette-exercise-web/
